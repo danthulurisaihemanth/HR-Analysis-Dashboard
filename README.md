@@ -64,7 +64,7 @@ This includes trendline and target line to help HR managers track progress towar
     7th Sheet: Education Field wise Attrition (Donut Plot)
 
 ## DASHBOARD:
-[HR Dashboard ](https://drive.google.com/drive/folders/1zA71zg2HR_Vd9uUnuGZAL0c-YJokO-PM)
+[HR Dashboard ](https://drive.google.com/file/d/1bTcRtV2ns-kXuNcYG_57xMvhd435gY-T/view?usp=sharing)
 
 ### DASHBOARD VIDEO:
 
