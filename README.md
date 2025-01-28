@@ -1,11 +1,11 @@
-# HR Analytics Dashboard Using Tableau
+# HR Analytics Dashboard Using Tableau 📊
 
 <p align="center">
   <img width="700" height="170" src="https://github.com/user-attachments/assets/b7f096a8-2fd9-45aa-830f-ac29344f0ab4">
 </p>
 
 
-#### HR Analytics: A Complete Employee Data Analysis Project using Tableau Dashboard
+#### HR Analytics: A Complete Employee Data Analysis Project using Tableau Dashboard 🧑‍💼
 
 ## ABOUT PROJECT:
 
@@ -23,11 +23,11 @@ This includes trendline and target line to help HR managers track progress towar
     
 ## STEPS OVERVIEW:
 
-1) Data subset collected from online.
-2) Understanding the Data.
-3) Loading Libraries.
-4) Data Cleaning & Finding Missing values.
-5) Data Visualization.
+1. Data subset collected from online 🌐
+2. Understanding the Data 📊
+3. Loading Libraries 📚
+4. Data Cleaning & Finding Missing values 🧹
+5. Data Visualization 📉
 
 ## DATA CLEANING:
 
@@ -49,19 +49,21 @@ This includes trendline and target line to help HR managers track progress towar
 
 ## DASHBOARD CONTENT:
 
-    1st Sheet: KPI of Employee Count, Attrition Count, Attrition Rate, Active Employees and Average Age.
-    
-    2nd Sheet: Attrition by Gender (Lollipop Chart)
-    
-    3rd Sheet: Department wise Attrition (Pie Chart)
-    
-    4th Sheet: No. of Employee by Age Group (Bar Graph)
-    
-    5th Sheet: Job Satisfaction Rating (Square Chart)
-    
-    6th Sheet: Education Field wise Attrition (Vertical Bar Graph)
-    
-    7th Sheet: Education Field wise Attrition (Donut Plot)
+1st Sheet: KPI of Employee Count, Attrition Count, Attrition Rate, Active Employees, and Average Age 📊
+
+2nd Sheet: Attrition by Gender (Lollipop Chart) 🍭
+
+3rd Sheet: Department-wise Attrition (Pie Chart) 🥧
+
+4th Sheet: No. of Employees by Age Group (Bar Graph) 📊
+
+5th Sheet: Job Satisfaction Rating (Square Chart) 🟥
+
+6th Sheet: Education Field-wise Attrition (Vertical Bar Graph) 📈
+
+7th Sheet: Education Field-wise Attrition (Donut Plot) 🍩
+
+DASHBOARD:
 
 ## DASHBOARD:
 [HR Dashboard ](https://drive.google.com/file/d/1bTcRtV2ns-kXuNcYG_57xMvhd435gY-T/view?usp=sharing)
@@ -84,4 +86,4 @@ I have uploaded all the files, datasets, workbook, icons above. Feel free to use
 
 ## My Other Projects:
 
-[Fake News Detection](https://github.com/danthulurisaihemanth/Fake-News-Detection-using-Machine-Learning)
+#[Fake News Detection] 📰💻 (https://github.com/danthulurisaihemanth/Fake-News-Detection-using-Machine-Learning)
