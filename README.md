@@ -83,3 +83,5 @@ I have uploaded all the files, datasets, workbook, icons above. Feel free to use
 [Go to my LinkedIn](https://www.linkedin.com/in/danthuluri-saihemanth-2332a1252/) 🌐
 
 ## My Other Projects:
+
+[Fake News Detection](https://github.com/danthulurisaihemanth/Fake-News-Detection-using-Machine-Learning)
