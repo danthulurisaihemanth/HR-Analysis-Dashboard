@@ -66,10 +66,6 @@ This includes trendline and target line to help HR managers track progress towar
 ## DASHBOARD:
 [HR Dashboard ](https://drive.google.com/file/d/1bTcRtV2ns-kXuNcYG_57xMvhd435gY-T/view?usp=sharing)
 
-### DASHBOARD VIDEO:
-
-https://user-images.githubusercontent.com/124501309/227794176-ee1b6f90-9078-41aa-a185-914f27d5215d.mp4
-
 ### DASHBOARD OVERVIEW:
 
 The HR Analytics Dashboard project using Tableau is designed to provide insights into key metrics and trends related to human resource management in an organization. The dashboard utilizes visualizations and data analysis techniques to help HR professionals identify patterns and make data-driven decisions. The dashboard includes several key visualizations that provide a comprehensive overview of HR-related metrics, including employee turnover rate, headcount, and employee engagement levels. The dashboard also includes metrics related to recruitment, including time-to-fill and cost-per-hire.
